@@ -1,17 +1,4 @@
 //===================
-//  Odometer
-//  Here set the numebers
-//===================
-
-setTimeout(function(){
-  $('.odometer.01').html(23578);
-}, 1000);
-setTimeout(function(){
-  $('.odometer.02').html(12702);
-}, 1000);
-
-
-//===================
 //  Magnific Popup
 //===================
 
